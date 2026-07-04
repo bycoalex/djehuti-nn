@@ -1,0 +1,15 @@
+== Building & running NN recovery (gradient‑checks + learning anchors) ==
+  [PASS] nn_recovery (exit 0)
+== Building & running GPT demo (char‑level Transformer) ==
+  [PASS] nn_llm_demo (exit 0)
+== Building & running exact‑math test (SIMD transcendentals) ==
+  [PASS] exact_math_test (FAST profile)
+  [PASS] exact_math_test (EXACT=1, std:: transcendentals)
+== Building & running fraud detection demo (synthetic data) ==
+  [PASS] fraud_demo (exit 0)
+
+==================================================
+  NN VERIFICATION RESULT: 5 passed, 0 failed
+  ALL TESTS PASSED — the NN engine is working correctly on this machine.
+==================================================
+EXIT_CODE=0

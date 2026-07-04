@@ -1,0 +1,67 @@
+# Djehuti NN Free – Non‑Exclusive Source License
+
+**Licensor:** Co Bros & Alex Ramanaidou (Webuildcodes)
+
+## 1. Grant (Non‑Exclusive, with OEM/Embed Rights)
+
+The Licensor grants the Licensee a perpetual, worldwide, **non‑exclusive** license to:
+
+- **use, compile, and run** the licensed source code (the "Software"), internally and in the Licensee's own products and services;
+- **modify** the Software and create derivative works for the Licensee's own use;
+- **deploy** the Software (original or modified) on any number of the Licensee's own machines;
+- **embed and redistribute (OEM)** the Software, in **compiled / object form only**, inside the Licensee's own products, and **distribute those products to the Licensee's own customers and end‑users** — including as a hosted or SaaS service. End‑users acquire **no rights to the Software itself**, only the right to use the Licensee's product into which it is embedded.
+
+> **This is similar to how SQLite, Qt (LGPL with exceptions), or the Unreal Engine's EULA operate** – you can ship the compiled code inside your product, but you may not redistribute the source as a standalone SDK.
+
+> **Free for all uses** – startups, enterprises, research, side projects, and commercial products.
+> **Not free for reselling the code itself** – you may not package this SDK and sell it to others
+> as a development tool or compete with the Licensor's core offering.
+
+Ownership of the Software (and all copyright in it) remains with the Licensor. The Licensor may license the same Software to others — this license is **not exclusive** and grants no exclusivity.
+
+---
+
+## 2. Restrictions
+
+The Licensee shall **not**:
+
+- resell, sublicense, rent, lease, or otherwise **redistribute the source code** (or a substantial part of it) to any third party in source form;
+- distribute the unmodified Software as a competing source‑code product or SDK;
+- remove or alter the license header, copyright notices, or the build watermark (if any).
+
+**For clarity:** the OEM grant in §1 permits shipping the Software **embedded in** the Licensee's own product (compiled/binary). It does **not** permit redistributing the Software **as** a source SDK, library, or developer tool on its own, or as a "naked" repackaging of this SDK – that protects the Licensor as the original producer rather than breeding resellers.
+
+Distributing **compiled binaries** of the Licensee's own application that incorporate the Software (modified or not) is permitted. Distributing the **source code** of the Software on its own is **not** permitted.
+
+---
+
+## 3. Delivery & Acceptance
+
+The Software is delivered as source code, freely available on the Licensor's main website, GitHub, and Gumroad. The Licensee may verify the delivered archive across the different platforms.
+
+---
+
+## 4. Support
+
+The Software is provided **"as is"**.  
+Ongoing support, updates, custom modules, or performance tuning are from time to time available on the Licensor's platforms.
+
+---
+
+## 5. Warranty & Liability
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON‑INFRINGEMENT. The Software performs neural network and computation; it does **not** constitute financial, medical, scientific, or other professional advice, and all decisions made using it remain the Licensee's responsibility.
+
+To the maximum extent permitted by law, the Licensor's aggregate liability for the licensed module(s) is **zero**.
+
+---
+
+## 6. Term
+
+Perpetual for the licensed version. Breach of Section 2 terminates the license; on termination the Licensee must cease use and destroy all copies of the source.
+
+---
+
+## 7. Governing Law
+
+This license shall be governed by the laws of France, without regard to its conflict‑of‑law provisions.
